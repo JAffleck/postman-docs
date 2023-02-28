@@ -27,7 +27,6 @@ const pageQuery = `{
         id
         frontmatter {
           title
-          search_keyword
         }
         fields {
           slug
