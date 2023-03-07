@@ -70,7 +70,7 @@ In the steps below, you will use the Postman app's proxy to inspect HTTP communi
 
 > You can't use the Postman proxy with the [Postman web app](/docs/getting-started/installation-and-updates/#web-limitations). Make sure you've installed the [Postman desktop app](/docs/getting-started/installation-and-updates/).
 
-1. Select <img alt="Capture icon" src="https://assets.postman.com/postman-docs/icon-capture.jpg#icon" width="15px"> **Capture requests** in the Postman footer.
+1. Select <img alt="Capture icon" src="https://assets.postman.com/postman-docs/icon-capture.jpg#icon" width="15px"> **Capture requests** in the Postman header bar.
 1. In the **Capture requests** window, select the **Via Proxy** tab.
 
     <img src="https://assets.postman.com/postman-docs/capture-via-proxy-tab-v9-13.jpg" alt="Capture via proxy tab" width="300px"/>
@@ -171,7 +171,7 @@ The bottom right corner shows the total time of the capture session, along with 
 
 When you're done with your debug session, select **Stop** in the lower right corner. This will finish the debug session, and results of the debug session will be saved in the **History** tab.
 
-After stopping the session, the proxy is still running. Select <img alt="Capture icon" src="https://assets.postman.com/postman-docs/icon-capture.jpg#icon" width="15px"> **Capture requests** in the Postman footer, and you can either start another debug session, or select **Disable proxy** to turn off the proxy.
+After stopping the session, the proxy is still running. Select <img alt="Capture icon" src="https://assets.postman.com/postman-docs/icon-capture.jpg#icon" width="15px"> **Capture requests** in the Postman header, and you can either start another debug session, or select **Disable proxy** to turn off the proxy.
 
 ### Step 6: View the proxy debug session results
 
